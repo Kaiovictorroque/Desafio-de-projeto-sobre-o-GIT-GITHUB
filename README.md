@@ -1,2 +1,5 @@
-# dio-desafio-github-primeiro-repositorio
-Minha tentativa de criar meu primeiro repositório com pouca noção, participando do desafia da dio de fazer um projeto sobre GIT/GITHUB
+  # Desafio de projeto sobre o GIT/GITHUB
+Repositório criado para o desafio de projeto.
+
+## Links úteis 
+[Sintaxe basica sobre o Markdown](https://www.markdownguide.org/basic-syntax)
